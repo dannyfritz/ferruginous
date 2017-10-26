@@ -1,0 +1,14 @@
+[package]
+name = "ferruginous"
+version = "0.1.0"
+authors = ["Danny Fritz <dannyfritz@gmail.com>"]
+description = "A collection of utilities for making games"
+homepage = "https://github.com/dannyfritz/ferruginous"
+repository = "git@github.com:dannyfritz/ferruginous.git"
+readme = "README.md"
+keywords = ["game", "gl", "gamedev"]
+categories = ["game-engines", "rendering", "rendering::engine"]
+license = "MIT"
+license-file = "LICENSE.md"
+
+[dependencies]
