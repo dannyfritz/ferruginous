@@ -1,0 +1,11 @@
+#control_brace_style = "ClosingNextLine"
+#fn_args_density = "vertical"
+#merge_imports = true
+#force_multiline_blocks = true
+#trailing_comma = "always"
+#trailing_semicolon = false
+#format_doc_comments = true
+#wrap_comments = true
+edition = "2018"
+#version = "Two"
+#normalize_doc_attributes = true

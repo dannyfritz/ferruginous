@@ -2,6 +2,7 @@
 name = "graphics_2d"
 version = "0.1.0"
 authors = ["Danny Fritz <dannyfritz@gmail.com>"]
+workspace = ".."
 edition = "2018"
 
 [dependencies]

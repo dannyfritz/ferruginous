@@ -1,0 +1,15 @@
+[package]
+name = "ferruginous-examples"
+version = "0.1.0"
+authors = ["Danny Fritz <dannyfritz@gmail.com>"]
+workspace = ".."
+edition = "2018"
+
+[[bin]]
+name = "reference"
+path = "reference/main.rs"
+
+[dependencies]
+graphics_2d = { path = "../graphics_2d" }
+runtime = { path = "../runtime" }
+audio = { path = "../audio" }
